@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/tree-of-rich/static/css/main.095c8ccd.chunk.css",
-    "main.js": "/tree-of-rich/static/js/main.b66d1c15.chunk.js",
-    "main.js.map": "/tree-of-rich/static/js/main.b66d1c15.chunk.js.map",
+    "main.css": "/tree-of-rich/static/css/main.766c7ed4.chunk.css",
+    "main.js": "/tree-of-rich/static/js/main.7a2e63b7.chunk.js",
+    "main.js.map": "/tree-of-rich/static/js/main.7a2e63b7.chunk.js.map",
     "runtime-main.js": "/tree-of-rich/static/js/runtime-main.a1324d66.js",
     "runtime-main.js.map": "/tree-of-rich/static/js/runtime-main.a1324d66.js.map",
     "static/js/2.750b42cc.chunk.js": "/tree-of-rich/static/js/2.750b42cc.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.f7a70cef.chunk.js": "/tree-of-rich/static/js/3.f7a70cef.chunk.js",
     "static/js/3.f7a70cef.chunk.js.map": "/tree-of-rich/static/js/3.f7a70cef.chunk.js.map",
     "index.html": "/tree-of-rich/index.html",
-    "static/css/main.095c8ccd.chunk.css.map": "/tree-of-rich/static/css/main.095c8ccd.chunk.css.map",
+    "static/css/main.766c7ed4.chunk.css.map": "/tree-of-rich/static/css/main.766c7ed4.chunk.css.map",
     "static/js/2.750b42cc.chunk.js.LICENSE.txt": "/tree-of-rich/static/js/2.750b42cc.chunk.js.LICENSE.txt",
     "static/media/golden-oak-tree.09559563.png": "/tree-of-rich/static/media/golden-oak-tree.09559563.png",
     "static/media/kakaotalk-openchat.a56e237b.png": "/tree-of-rich/static/media/kakaotalk-openchat.a56e237b.png",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.a1324d66.js",
     "static/js/2.750b42cc.chunk.js",
-    "static/css/main.095c8ccd.chunk.css",
-    "static/js/main.b66d1c15.chunk.js"
+    "static/css/main.766c7ed4.chunk.css",
+    "static/js/main.7a2e63b7.chunk.js"
   ]
 }
