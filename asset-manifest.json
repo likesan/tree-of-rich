@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/tree-of-rich/static/css/main.3296c11b.chunk.css",
-    "main.js": "/tree-of-rich/static/js/main.d8c618dc.chunk.js",
-    "main.js.map": "/tree-of-rich/static/js/main.d8c618dc.chunk.js.map",
+    "main.css": "/tree-of-rich/static/css/main.0b75932b.chunk.css",
+    "main.js": "/tree-of-rich/static/js/main.bd3ec781.chunk.js",
+    "main.js.map": "/tree-of-rich/static/js/main.bd3ec781.chunk.js.map",
     "runtime-main.js": "/tree-of-rich/static/js/runtime-main.a1324d66.js",
     "runtime-main.js.map": "/tree-of-rich/static/js/runtime-main.a1324d66.js.map",
     "static/js/2.bc85e4e5.chunk.js": "/tree-of-rich/static/js/2.bc85e4e5.chunk.js",
@@ -10,9 +10,8 @@
     "static/js/3.f7a70cef.chunk.js": "/tree-of-rich/static/js/3.f7a70cef.chunk.js",
     "static/js/3.f7a70cef.chunk.js.map": "/tree-of-rich/static/js/3.f7a70cef.chunk.js.map",
     "index.html": "/tree-of-rich/index.html",
-    "static/css/main.3296c11b.chunk.css.map": "/tree-of-rich/static/css/main.3296c11b.chunk.css.map",
+    "static/css/main.0b75932b.chunk.css.map": "/tree-of-rich/static/css/main.0b75932b.chunk.css.map",
     "static/js/2.bc85e4e5.chunk.js.LICENSE.txt": "/tree-of-rich/static/js/2.bc85e4e5.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/tree-of-rich/static/media/DXPoetAndMe.15f0be31.ttf",
     "static/media/golden-oak-tree.09559563.png": "/tree-of-rich/static/media/golden-oak-tree.09559563.png",
     "static/media/kakaotalk-openchat.a56e237b.png": "/tree-of-rich/static/media/kakaotalk-openchat.a56e237b.png",
     "static/media/youtube-logo.d0a8d690.png": "/tree-of-rich/static/media/youtube-logo.d0a8d690.png"
@@ -20,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.a1324d66.js",
     "static/js/2.bc85e4e5.chunk.js",
-    "static/css/main.3296c11b.chunk.css",
-    "static/js/main.d8c618dc.chunk.js"
+    "static/css/main.0b75932b.chunk.css",
+    "static/js/main.bd3ec781.chunk.js"
   ]
 }
