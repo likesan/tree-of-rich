@@ -1,25 +1,26 @@
 {
   "files": {
-    "main.css": "/tree-of-rich/static/css/main.766c7ed4.chunk.css",
-    "main.js": "/tree-of-rich/static/js/main.c8ee98f8.chunk.js",
-    "main.js.map": "/tree-of-rich/static/js/main.c8ee98f8.chunk.js.map",
-    "runtime-main.js": "/tree-of-rich/static/js/runtime-main.4bd58218.js",
-    "runtime-main.js.map": "/tree-of-rich/static/js/runtime-main.4bd58218.js.map",
-    "static/js/2.a4701c72.chunk.js": "/tree-of-rich/static/js/2.a4701c72.chunk.js",
-    "static/js/2.a4701c72.chunk.js.map": "/tree-of-rich/static/js/2.a4701c72.chunk.js.map",
-    "static/js/3.eacdb80e.chunk.js": "/tree-of-rich/static/js/3.eacdb80e.chunk.js",
-    "static/js/3.eacdb80e.chunk.js.map": "/tree-of-rich/static/js/3.eacdb80e.chunk.js.map",
+    "main.css": "/tree-of-rich/static/css/main.a70cd494.chunk.css",
+    "main.js": "/tree-of-rich/static/js/main.d8c618dc.chunk.js",
+    "main.js.map": "/tree-of-rich/static/js/main.d8c618dc.chunk.js.map",
+    "runtime-main.js": "/tree-of-rich/static/js/runtime-main.a1324d66.js",
+    "runtime-main.js.map": "/tree-of-rich/static/js/runtime-main.a1324d66.js.map",
+    "static/js/2.bc85e4e5.chunk.js": "/tree-of-rich/static/js/2.bc85e4e5.chunk.js",
+    "static/js/2.bc85e4e5.chunk.js.map": "/tree-of-rich/static/js/2.bc85e4e5.chunk.js.map",
+    "static/js/3.f7a70cef.chunk.js": "/tree-of-rich/static/js/3.f7a70cef.chunk.js",
+    "static/js/3.f7a70cef.chunk.js.map": "/tree-of-rich/static/js/3.f7a70cef.chunk.js.map",
     "index.html": "/tree-of-rich/index.html",
-    "static/css/main.766c7ed4.chunk.css.map": "/tree-of-rich/static/css/main.766c7ed4.chunk.css.map",
-    "static/js/2.a4701c72.chunk.js.LICENSE.txt": "/tree-of-rich/static/js/2.a4701c72.chunk.js.LICENSE.txt",
+    "static/css/main.a70cd494.chunk.css.map": "/tree-of-rich/static/css/main.a70cd494.chunk.css.map",
+    "static/js/2.bc85e4e5.chunk.js.LICENSE.txt": "/tree-of-rich/static/js/2.bc85e4e5.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/tree-of-rich/static/media/DXPoetAndMe.15f0be31.ttf",
     "static/media/golden-oak-tree.09559563.png": "/tree-of-rich/static/media/golden-oak-tree.09559563.png",
     "static/media/kakaotalk-openchat.a56e237b.png": "/tree-of-rich/static/media/kakaotalk-openchat.a56e237b.png",
     "static/media/youtube-logo.d0a8d690.png": "/tree-of-rich/static/media/youtube-logo.d0a8d690.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.4bd58218.js",
-    "static/js/2.a4701c72.chunk.js",
-    "static/css/main.766c7ed4.chunk.css",
-    "static/js/main.c8ee98f8.chunk.js"
+    "static/js/runtime-main.a1324d66.js",
+    "static/js/2.bc85e4e5.chunk.js",
+    "static/css/main.a70cd494.chunk.css",
+    "static/js/main.d8c618dc.chunk.js"
   ]
 }
